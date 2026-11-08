@@ -52,3 +52,13 @@ A simple Python command-line application for managing expenses.
 
 \- Git clone and pull practised
 
+
+
+\## Upcoming Features
+
+
+
+\- Monthly expense reports
+
+\- Category-wise spending analysis
+
